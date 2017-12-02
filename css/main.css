@@ -1,6 +1,3 @@
-@import url("font-awesome/css/font-awesome.min.css");
-@import url("micons/micons.css");
-@import url("fonts.css");
 
 html {
 	font-size: 10px;
@@ -619,7 +616,7 @@ label > input[type="radio"] {
 }
 
 /**
- * Style Placeholder Text  
+ * Style Placeholder Text
  */
 ::-webkit-input-placeholder {
 	color: #777777;
@@ -641,7 +638,7 @@ label > input[type="radio"] {
 	color: #777777 !important;
 }
 
- 
+
 
 .button,
 a.button,
@@ -1089,7 +1086,7 @@ input::-moz-focus-inner {
 .bricks-wrapper .entry-header .entry-title {
 	font-size: 2.5rem;
 	line-height: 1.32;
-	margin-bottom: 1.8rem;	
+	margin-bottom: 1.8rem;
 }
 .bricks-wrapper .entry-header .entry-title a,
 .bricks-wrapper .entry-header .entry-title a:visited {
@@ -1236,11 +1233,11 @@ input::-moz-focus-inner {
 }
 
 #featured-post-slider .flex-direction-nav li a.flex-prev {
-	background-image: url(../images/arrow-left.png);
+	background-image: url(../img/arrow-left.png);
 }
 
 #featured-post-slider .flex-direction-nav li a.flex-next {
-	background-image: url(../images/arrow-right.png);
+	background-image: url(../img/arrow-right.png);
 }
 
 #featured-post-slider .flex-direction-nav li a:hover {
@@ -1308,7 +1305,7 @@ input::-moz-focus-inner {
 
 }
 
- 
+
 
 .format-quote,
 .format-link {
@@ -2671,7 +2668,7 @@ footer ul li {
 
 }
 
- 
+
 
 .format-gallery .post-slider {
 	position: relative;
